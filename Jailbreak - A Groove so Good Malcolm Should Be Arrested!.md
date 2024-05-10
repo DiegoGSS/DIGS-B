@@ -1,9 +1,12 @@
-Guitarist: [[Malcolm Young]] 
-Band: [[AC/DC]]
-Album: [[Jailbreak (EP)]]
-Year: [[1984]]
+# Jailbreak - A Groove so Good Malcolm Should Be Arrested!
 
-[[Song Structure]]:
+
+- Guitarist: [[Malcolm Young]] 
+- Band: [[AC/DC]]
+- Album: [[Jailbreak (EP)]]
+- Year: [[1984]]
+
+## [[Song Structure]]:
 | In | V1 | PC1 | C1 | V2 | PC2 | C2 | Solo (PC) | Interlude | C - O |
 Key: A
 
